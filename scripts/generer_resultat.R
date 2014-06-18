@@ -1,5 +1,5 @@
 # Vous savez maintenant à quoi sert cette ligne, n'oubliez pas de l'adapter =)
-setwd("/Users/sya/Desktop/R/")
+setwd("/Users/sya/Desktop/learning-R")
 
 # On définit un nombre de départ
 nombre_depart <- 0
