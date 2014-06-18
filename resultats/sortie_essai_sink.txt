@@ -1,0 +1,2 @@
+[1] "Les résultats sont maintenant enregistrés dans notre fichier de sortie."
+[1] 16
