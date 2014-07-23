@@ -1,8 +1,7 @@
 # Si vous avez quitté R, votre dossier de travail peut avoir été perdu. 
 # Dans le doute, on le redéfinit. Le nom est évidemment à adapter.
 
-setwd("/Users/sya/Desktop/R/")
-
+setwd("/Users/sya/Desktop/learning-R")
 print("Ce résultat apparaitra sur l'écran.")
 print(5 * 2)
 
